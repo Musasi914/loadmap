@@ -18,7 +18,7 @@ export interface Phase {
 export const phases: Phase[] = [
   {
     title: "🏗️ Phase 1: 技術基盤の強化",
-    duration: "1-3ヶ月",
+    duration: "9-11月",
     skillCategories: [
       {
         title: "🎯 最優先技術",
@@ -39,7 +39,7 @@ export const phases: Phase[] = [
   },
   {
     title: "🎨 Phase 2: ポートフォリオ構築",
-    duration: "2-4ヶ月",
+    duration: "10-12月",
     skillCategories: [
       {
         title: "🖼️ 作品制作",
@@ -60,7 +60,7 @@ export const phases: Phase[] = [
   },
   {
     title: "💼 Phase 3: 初期実績構築",
-    duration: "3-6ヶ月",
+    duration: "11-2月",
     skillCategories: [
       {
         title: "💰 収益化開始",
@@ -77,7 +77,7 @@ export const phases: Phase[] = [
   },
   {
     title: "🚀 Phase 4: 専門性の確立",
-    duration: "6-12ヶ月",
+    duration: "来年2-8月",
     skillCategories: [
       {
         title: "🎯 差別化技術",
@@ -94,7 +94,7 @@ export const phases: Phase[] = [
   },
   {
     title: "🏆 Phase 5: 安定経営フェーズ",
-    duration: "1年以降",
+    duration: "来年9月以降",
     skillCategories: [
       {
         title: "💡 事業多角化",
